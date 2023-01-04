@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi! 👋 I'm Cande, I'm a Web Development Technician graduated from UNLaM.
+I have fullstack knowledge, but I like more the backend.
 
-<!--
-**candekn/candekn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working as a web developer with the following technologies:
+  - Angular and Bootstrap (front)
+  - NodeJS, Express and AWS Lambda (back) 
+  - PostgreSQL (database)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning ReactJS and Firebase
+- 😄 Pronouns: She, Her
+- ⚡ Fun fact: When I started programming I hated JavaScript, today it's what I use the most. 🤣
+- 🌟 More Skills:
+  - .Net Framework (C#) | Entity Framework | nHibernate | Blazor WebAssembly
+  - SQLServer | MySQL 
+  
+  
+- 👾I'm Geek: I love playing video games and watching anime👾
