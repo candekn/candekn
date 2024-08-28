@@ -6,11 +6,10 @@ I have fullstack knowledge, but I like more the backend.
   - NodeJS, Express and AWS Lambda (back) 
   - PostgreSQL (database)
 
-- 🌱 I’m currently learning ReactJS and Firebase
 - 😄 Pronouns: She, Her
 - ⚡ Fun fact: When I started programming I hated JavaScript, today it's what I use the most. 🤣
 - 🌟 More Skills:
-  - .Net Framework (C#) | Entity Framework | nHibernate | Blazor WebAssembly
+  - .Net Framework .Net Core (C#) | Entity Framework | nHibernate | Blazor WebAssembly
   - SQLServer | MySQL 
   
   
