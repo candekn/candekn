@@ -1,16 +1,28 @@
-### Hi! 👋 I'm Cande, I'm a Web Development Technician graduated from UNLaM.
-I have fullstack knowledge, but I like more the backend.
+### Hi! 👋 I'm Cande, a Web Development Technician graduated from UNLaM.
 
-- 🔭 I’m currently working as a web developer with the following technologies:
-  - Angular and Bootstrap (front)
-  - NodeJS, Express and AWS Lambda (back) 
-  - PostgreSQL (database)
+I have fullstack knowledge, but I'm more passionate about backend development.
 
-- 😄 Pronouns: She, Her
-- ⚡ Fun fact: When I started programming I hated JavaScript, today it's what I use the most. 🤣
-- 🌟 More Skills:
-  - .Net Framework .Net Core (C#) | Entity Framework | nHibernate | Blazor WebAssembly
-  - SQLServer | MySQL 
-  
-  
-- 👾I'm Geek: I love playing video games and watching anime👾
+- 🔭 I’m currently working as a backend developer with **.NET 8**.
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: I tried game dev because I'm a gamer, but it just wasn't for me 😅.
+
+---
+
+### 🏛️ Architecture, Patterns & Testing
+I focus on writing scalable, maintainable, and testable code using:
+- **Architectures:** Clean Architecture, Onion Architecture, DDD (Domain-Driven Design).
+- **Patterns:** CQRS, Mediator, Factory, Decorator, Repository, and Unit of Work.
+- **Principles:** SOLID, DRY, and Dependency Injection.
+- **Testing:** Unit Testing with **xUnit**, **MSTest**, and **Moq** for mocking dependencies.
+
+---
+
+### 🌟 Skills & Technologies
+- **Backend:** .NET Framework / .NET (C#), Entity Framework, nHibernate, NodeJS, Express, AWS Lambda.
+- **Frontend:** Blazor WebAssembly, Angular, Bootstrap.
+- **Databases:** SQL Server, MySQL, PostgreSQL.
+
+---
+
+### 👾 About Me
+I'm a total geek: I love playing video games and watching anime! 👾
